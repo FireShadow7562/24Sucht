@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="24Sucht-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/../Server Development/Nukkit Development/plugins</output-path>
+    <root id="archive" name="24Sucht-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="24sucht" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Server Development/Nukkit Development/plugins/ScoreboardAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
